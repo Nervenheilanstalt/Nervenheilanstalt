@@ -5,7 +5,7 @@
 <h1 align="center">Hi there.</h1>
 
 <p align="center">
-  I'm a college student and I am interested in developing firmware and software for embedded systems. I also work on WebDev, Telecommunications and Data Science.
+  I'm a college student and I am interested in developing firmware and software for embedded systems. I also work on WebDev, Telecommunications and Data Science projects.
 </p>
 
 ## 🚀 Technologies
